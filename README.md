@@ -1,1 +1,1 @@
-# documenting my deep learning journey
+# learning deep learning
